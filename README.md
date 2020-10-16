@@ -1,4 +1,4 @@
-![](images/hompage.png)
+![](images/homepage.png)
 ![](images/shoppingPage.png)
 ![](images/checkoutPage.png)
 ![](images/loggin.png)
