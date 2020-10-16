@@ -1,3 +1,7 @@
+![](images/hompage.png)
+![](images/shoppingPage.png)
+![](images/checkoutPage.png)
+![](images/loggin.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
